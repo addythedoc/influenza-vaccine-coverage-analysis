@@ -19,15 +19,16 @@ Executive summary deck for stakeholders
 
 
 **🛠️ Data Pipeline (MySQL)**
-1. **Create Database & Load Raw Table**
+
+**1. Create Database & Load Raw Table**
 
 The raw dataset is loaded into the flu_raw table and cleaned.
 
-2. **Convert Text Numbers → Numeric (coverage_pct)**
+**2. Convert Text Numbers → Numeric (coverage_pct)**
 
 MySQL regex cleaning converts percentage strings into decimals.
 
-3. **State-Level Extract (flu_state)**
+**3. State-Level Extract (flu_state)**
 
 **Filters:**
 
