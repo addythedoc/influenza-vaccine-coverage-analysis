@@ -1,5 +1,6 @@
-Influenza Vaccine Coverage Analysis (2009–2024)
+**Influenza Vaccine Coverage Analysis (2009–2024)**
 An End-to-End Data Pipeline, SQL Analysis & Tableau Dashboard Project
+
 📌 Overview
 
 This project analyzes influenza vaccination coverage across U.S. states using public CDC/NIS-Flu data.
