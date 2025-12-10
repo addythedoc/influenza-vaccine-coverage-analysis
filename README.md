@@ -105,20 +105,6 @@ Dashboard file:
 
 ---
 
-## 📝 **Presentation Deck**
-
-An executive-facing slide deck summarizes:
-
-* Key findings
-* Geographic disparities
-* Policy-relevant insights
-* Recommendations for improving vaccination uptake
-
-Presentation file:
-`Influenza-Vaccine-Coverage-vs-Healthy-People-70percent-Target.pptx`
-
----
-
 ## 🚀 **How to Reproduce the Analysis**
 
 1. Load the influenza vaccination dataset into MySQL
