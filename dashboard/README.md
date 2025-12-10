@@ -1,6 +1,7 @@
 The dashboard presents state-level influenza vaccination coverage across age groups and compares observed coverage to the Healthy People benchmark of 70%, highlighting geographic and demographic gaps.
 
 📁 **Files in This Folder**
+
 **1. Tableau Packaged Workbook (.twbx)**
 
 Influenza_vaccine_coverage.twbx
