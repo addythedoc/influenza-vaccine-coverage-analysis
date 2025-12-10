@@ -3,13 +3,14 @@
 
 ### End-to-End SQL Analytics & Tableau Dashboard Project
 
-Part of my Public Health & Healthcare Analytics Portfolio 
-Portfolio: https://github.com/addythedoc/public-health-data-analytics-portfolio
 ---
 
 ## 📌 **Overview**
 
-This project analyzes **influenza vaccination coverage across U.S. states** using publicly available CDC / NIS-Flu data. It demonstrates a complete **public health analytics workflow**, from data ingestion and transformation to visualization and stakeholder-ready reporting.
+This project analyzes **influenza vaccination coverage across U.S. states** using publicly available CDC / NIS-Flu data. It demonstrates a complete **public health analytics workflow**, from data ingestion and transformation to visualization and stakeholder-ready reporting. 
+
+**Part of my Public Health & Healthcare Analytics Portfolio 
+Portfolio: https://github.com/addythedoc/public-health-data-analytics-portfolio**
 
 The project includes:
 
