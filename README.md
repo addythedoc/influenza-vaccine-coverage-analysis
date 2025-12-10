@@ -3,6 +3,8 @@
 
 ### End-to-End SQL Analytics & Tableau Dashboard Project
 
+Part of my Public Health & Healthcare Analytics Portfolio 
+Portfolio: https://github.com/addythedoc/public-health-data-analytics-portfolio
 ---
 
 ## 📌 **Overview**
